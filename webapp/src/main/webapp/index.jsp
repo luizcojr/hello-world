@@ -31,7 +31,7 @@
     <p>Voce tem uma conta? <a href="#">Acesse aqui</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Obrigado, Feliz Aprendizado! </h1>
 
   
 </form>
