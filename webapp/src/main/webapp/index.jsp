@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Novo usuário para o Treinamento DevOps</h1>
+    <h1>Novo usuario para o Treinamento DevOps</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter com o número de celular</b></label>
+    <label for="mobile"><b>Enter com o numero de celular</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Registrar</button>
   </div>
   <div class="container signin">
-    <p>Você tem uma conta? <a href="#">Acesse aqui</a>.</p>
+    <p>Voce tem uma conta? <a href="#">Acesse aqui</a>.</p>
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
