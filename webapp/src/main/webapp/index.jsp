@@ -24,14 +24,14 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>Para criar uma conta aceite nossos<a href="#">Termos de Privacidade</a>.</p>
+    <p>Para criar uma conta aceite nossos<a href="#"> Termos de Privacidade</a>.</p>
     <button type="submit" class="registerbtn">Registrar</button>
   </div>
   <div class="container signin">
     <p>Voce tem uma conta? <a href="#">Acesse aqui</a>.</p>
   </div>
 
-   <h1> Obrigado, Feliz Aprendizado! </h1>
+   <h1> Obrigado, e um feliz aprendizado! </h1>
 
   
 </form>
