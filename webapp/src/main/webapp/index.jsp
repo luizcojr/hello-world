@@ -25,7 +25,7 @@
     <hr>
     <br>
     <p>Para criar uma conta aceite nossos <a href="#">Termos de Privacidade</a>.</p>
-    <button type="submit" class="registerbtn">Registrar</button>
+    <button type="submit" class="registerbtn">Registre</button>
   </div>
   <div class="container signin">
     <p>Voce tem uma conta? <a href="#">Acesse aqui</a>.</p>
