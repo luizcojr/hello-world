@@ -1,0 +1,8 @@
+Dockerfile
+pom.xml
+README.md
+regapp-deploy.yml
+regapp-service.yml
+server/
+teste.txt
+webapp/
